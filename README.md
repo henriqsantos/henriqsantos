@@ -1,7 +1,6 @@
 # Hi there, I'm Henri! 👋
 
-🇧🇷 Brazilian | 🇬🇫 Based in French Guiana | 📊 Transitioning into Data Analytics
-
+🇧🇷 Brazilian | 🇬🇫 Based in French Guiana | 📊 Data Analyst
 I’m a multidisciplinary tech professional bridging the gap between users, interfaces, and data. With a solid background in language teaching, UX/UI design, and Front-end development, I am currently diving deep into the Data ecosystem to turn raw numbers into business strategies.
 
 ### 🚀 What I'm Up To Right Now
@@ -13,7 +12,7 @@ I’m a multidisciplinary tech professional bridging the gap between users, inte
     * 🇬🇧🇪🇸🇨🇳 Working levels: English, Spanish, and Chinese.
 
 ### 🛠️ Tech Stack & Toolbox
-* **Data & Backend:** Python, SQL, Pandas (Learning mode: 🔥)
+* **Data & Backend:** Python, SQL, Pandas
 * **Front-end:** Angular, TypeScript, HTML5, CSS3
 * **Design:** UX/UI Design principles, Figma
 

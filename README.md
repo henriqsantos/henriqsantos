@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Henri! 👋
 
-<!--
-**henriqsantos/henriqsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 Brazilian | 🇬🇫 Based in French Guiana | 📊 Transitioning into Data Analytics
 
-Here are some ideas to get you started:
+I’m a multidisciplinary tech professional bridging the gap between users, interfaces, and data. With a solid background in language teaching, UX/UI design, and Front-end development, I am currently diving deep into the Data ecosystem to turn raw numbers into business strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Up To Right Now
+* **Data Path:** Learning and mastering  `Pandas`, `Basic Statistics`, `Machine Learning`, and `MLFlow`.
+* **Real-World Practice:** Building an end-to-end data analytics project for a small business (Curtains & Blinds company), analyzing and cleaning ERP data to generate actionable insights.
+* **Languages:** I connect with the world in 5 languages! 
+    * 🇵🇹 Native: Portuguese
+    * 🇫🇷 Fluent/Advanced: French
+    * 🇬🇧🇪🇸🇨🇳 Working levels: English, Spanish, and Chinese.
+
+### 🛠️ Tech Stack & Toolbox
+* **Data & Backend:** Python, SQL, Pandas (Learning mode: 🔥)
+* **Front-end:** Angular, TypeScript, HTML5, CSS3
+* **Design:** UX/UI Design principles, Figma
+
+---
+
+📬 **Let's connect!** Whether it's about data, languages, feel free to reach out.
